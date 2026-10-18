@@ -1,6 +1,6 @@
 [package]
 name = "LLL"
-version = "10.0.1"
+version = "12.0.0"
 edition = "2024"
 description = "Better ll -A command for the Linux shell"
 
